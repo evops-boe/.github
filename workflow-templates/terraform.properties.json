@@ -1,0 +1,9 @@
+{
+    "name": "Bank of Englad - Terraform Workflow",
+    "description": "Bank of Englad - Terraform Workflow",
+    "iconName": "Bank-of-England",
+    "categories": [
+        "Terraform"
+    ],
+    "filePatterns": []
+}
